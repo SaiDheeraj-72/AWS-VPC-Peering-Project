@@ -1,5 +1,0 @@
-AWS VPC Peering Project Demo
-
-<a href="https://youtu.be/Z-aX430K7ws" target="_blank">
-Watch the Complete Project Demo
-</a>
